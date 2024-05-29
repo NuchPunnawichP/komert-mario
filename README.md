@@ -4,7 +4,7 @@
  <h3>
   
  ```json
-Name = "Punnawich Pongsriassawin"
+Name = "Nuch Punnawich"
 NickName = "Nuchie"
 Country = "Thailand"
 Code_Favourite = ["C", "C++", "C#", "Python"]
