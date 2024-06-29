@@ -8,7 +8,7 @@ Name = "Nuch Punnawich"
 NickName = "Nuchie"
 Country = "Thailand"
 Code_Favourite = ["C", "C++", "C#", "Python"]
-Learning = ["Machine Learning"]
+Learning = ["Machine Learning", "MATLAB"]
 Achievement = ["Paticipated: International Blockchain Olympic 2020"]
  ```
   
